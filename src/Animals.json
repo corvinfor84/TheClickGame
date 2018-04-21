@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Panda",
+    "image": "http://kids.sandiegozoo.org/sites/default/files/2017-04/animal-hero-panda3.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Cat",
+    "image": "https://www.argospetinsurance.co.uk/assets/uploads/2017/12/cat-pet-animal-domestic-104827.jpeg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Dog",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13001815/Alaskan-Malamute-On-White-03-400x267.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Pig",
+    "image": "https://media.npr.org/assets/img/2015/05/04/pig-tales_9780393240245-1-_wide-ff64be1d4945228dd4bf7f4a10cbc7b08ff9ada5-s900-c85.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Seal",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByNE-G9TmpYaLgYsMU2EPRiHCGct6uzMlOH6SQcFRD1FEfzV2",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Tiger",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjn2tqBoPz5iPIp64Abb1CJbx2xbO0RG1X8jpwf6gWlNZTVWma",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Bear",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3YVpZhRcVLbX-66mYOdyvj_2pE0KbMga4JsU7g68kc4ibY0iEQ",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Rabbit",
+    "image": "https://i.redd.it/scio63n1ip5z.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Penguin",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl1JTCaEe5G5Y9qghcZq2S2Vyj4NPzE-L6Q2lpCtj_zIvVJyjGMA",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Lizard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROWViksaaRgY8KJkoR5GMH3_GeD6-ttBGiWCtJfgRYME26rFebLA",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Cow",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnfofo3VF81yI4_dEhAaQosYW1lXGYjiZwafWgjcKdDHQgZQL",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Parrot",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYza9B6v3B4Kasig4UHn5UMHUDaXPkFwSbgBtnJcbGG94DLnfIDg",
+    "count": 0
+  }
+]
