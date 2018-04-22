@@ -12,15 +12,25 @@ class App extends Component {
     score: 0,
     highscore: 0
   };
-
+ 
+ handleIncrement = id => {
+        if(this.pets.score === 0){
+          this.pets.score = pets.score + 1;
+          this.setState({score : this.state.score + 1});
+          this.state.pets.sort(() => Math.random() - 0.5)
+          return true;
+        }
+  }
   
-  // Map over this.state.pets and render a cardCard component for each card object
+
   render() {
     return (
       <Wrapper>
-        <Nav score={this.state.score} highscore={this.state.highscore}></Nav>
+        <Nav score={this.state.score} highscore={this.state.highscore}/>
+          
          {this.state.pets.map(card => (
           <Animals
+            onClick={this.handleIncrement}
             id={card.id}
             key={card.id}
             image={card.image}
@@ -31,5 +41,6 @@ class App extends Component {
     );
   }
 }
+
 
 export default App;
