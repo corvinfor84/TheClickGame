@@ -1,12 +1,11 @@
 .animCard {
   background: #fff;
   border-radius: 2px;
-  height: 325px;
+  height: 24%;
   margin: 1rem;
   position: relative;
-  width: 325px;
+  width: 24%;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-  text-align: left;
 }
 
 .animCard > .img-container {
@@ -15,20 +14,8 @@
   text-align: center;
   background:#6CADDC;
 }
-.animCard > .img-container > img {
+.img-container, img {
   width: 100%
 }
 
-.animCard > .content {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  font-size: 15px;
-}
 
-.animCard > .content > ul {
-  list-style-type: none;
-}
-
-.animCard > .content > ul > li {
-  margin-top: 18px;
-}

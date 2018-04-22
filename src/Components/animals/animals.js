@@ -3,7 +3,7 @@ import "./animals.css";
 
 const animals = props => (
 	
-	<div className="animCard" onClick={() => props.handleIncrement(props.id)}>
+	<div onClick={() => props.changeCard(props.id)} className="animCard">
     <div className="img-container">
       <img
         alt={props.name}

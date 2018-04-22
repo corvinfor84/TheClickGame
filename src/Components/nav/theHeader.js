@@ -7,8 +7,8 @@ const Nav = props =>
 		<div className="title">
 			<h1>Click Game</h1>
 		</div>
-			<div className="score">{props.score}</div>
-			<div className="score">{props.highscore}</div>		    
+			<div className="score">Score:{props.score}</div>
+			<div className="score">Highscore:{props.highscore}</div>		    
 	</header>
 
 	)
