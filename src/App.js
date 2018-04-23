@@ -13,10 +13,15 @@ class App extends Component {
     pets
   };
  
-  changeCard = () => {
-    
+  changeCard = (id) => {
+
     this.setState({ score: this.state.score + 1 });
-    
+    this.setState({pets:this.state.pets.sort(function(a, b) {
+          return 0.5 - Math.random();
+        })});
+
+    const pcards = this.state.pets.filter(input => pets.id !== id);
+
   };
 
   render() {
